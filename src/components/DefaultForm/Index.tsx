@@ -7,7 +7,6 @@ import Styles from './Styles.module.css'
 type DefaultForm = {
   
 } & React.ComponentProps<'form'>;
-
 export function DefaultForm() {
 
   return (
