@@ -1,7 +1,7 @@
 import './styles/global.css';
 import './styles/theme.css';
 import Home from './pages/home/index';
-import { TaskContextProvider } from './contexts/TaskContext';
+import { TaskContextProvider } from './contexts/TaskContext/taskContextProvider';
 
 function App() {
   return (
