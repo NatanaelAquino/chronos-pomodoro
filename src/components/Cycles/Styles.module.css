@@ -15,12 +15,12 @@
   background: var(--primary);
   border-radius: 50%;
 }
-.workTime{ 
+.WorkTime{ 
   background: var(--warning);
 }
-.shortBreakTime{
+.ShortBrakTime{
   background-color: var(--primary);
 }
-.longBreakTime{
+.LongBreakTime{
   background-color: var(--info);
 }
